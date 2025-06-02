@@ -1,4 +1,6 @@
 # api-with-nest
-Atividade Aula 3 - Api Development
-Bianca da Silva Queiroz
-bianca.queiroz@aluno.faculdadeimpacta.com
+
+Atividade Aula 3 - API Development
+
+**Nome:** Bianca da Silva Queiroz  
+**E-mail:** bianca.queiroz@aluno.faculdadeimpacta.com
